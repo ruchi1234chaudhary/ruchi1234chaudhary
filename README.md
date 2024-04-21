@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **"Exploring the backend of web development, creating engaging frontend projects, and honing DSA skills in C++ to craft comprehensive solutions."**
 
-- 📫 How to reach me **cruchi971@gmail.com**
+- 📫 How to reach me **github.com/ruchi1234chaudhary**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
