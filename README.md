@@ -1,3 +1,4 @@
+![]()
 <h1 align="center">Hi 👋, I'm Ruchi Chaudhary</h1>
 <h3 align="center">"Aspiring Software Engineer: Navigating Full Stack Development with Enthusiasm."</h3>
 
