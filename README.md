@@ -1,4 +1,4 @@
-![](https://github.com/ruchi1234chaudhary/ruchi1234chaudhary/blob/main/git-banner.jpg)
+![](https://github.com/ruchi1234chaudhary/ruchi1234chaudhary/blob/main/git-banner-correct.jpg)
 <h1 align="center">Hi 👋, I'm Ruchi Chaudhary</h1>
 <h3 align="center">"Aspiring Software Engineer: Navigating Full Stack Development with Enthusiasm."</h3>
 
