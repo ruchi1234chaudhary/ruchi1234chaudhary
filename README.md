@@ -4,7 +4,7 @@
 
 <p align="left"> <img src=thumbnail.png" alt="ruchi1234chaudhary" /> </p>
 
-- 🌱 I’m currently learning **"Exploring the backend of web development, creating engaging frontend projects, and honing DSA skills in C++ to craft comprehensive solutions."**
+- 🌱 I’m currently learning **""Embarking on the C++ Daily Code Challenge: A Personal Commitment to Daily Practice, Cultivating Consistency, and Nurturing Expertise**
 
 - 📫 How to reach me **github.com/ruchi1234chaudhary**
 
