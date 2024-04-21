@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<div class="box" style:"flex"></div>
+<div class="box" style="width:50%"></div>
 <h3 align="left">DAY-1</h3>                (21/04/2024)                 
 <h3 align="left">DAY-2</h3>                (23/04/2024)
 <h3 align="left">DAY-3</h3>               (24/04/2024)
