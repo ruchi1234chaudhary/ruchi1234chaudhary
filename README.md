@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ruchi Chaudhary</h1>
 <h3 align="center">"Code-a-Day Challenge: Consistency is Key!"</h3>
 
-<p align="left"> <img src=thumbnail.png" alt="ruchi1234chaudhary" /> </p>
+<p align="left"> <img src=https://github.com/ruchi1234chaudhary/ruchi1234chaudhary/blob/main/day-1-challenge.png" alt="ruchi1234chaudhary" /> </p>
 
 - 🌱 I’m currently learning **""Embarking on the C++ Daily Code Challenge: A Personal Commitment to Daily Practice, Cultivating Consistency, and Nurturing Expertise**
 
