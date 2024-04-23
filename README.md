@@ -12,4 +12,5 @@
 <p align="left">
 </p>
 <h1>Day-1(completed)</h1>
+<h1>Day-2(completed)</h1>
 
