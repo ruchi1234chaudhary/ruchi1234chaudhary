@@ -16,5 +16,7 @@
 <h1>Day-3(completed)</h1>
 <h1>Day-4(completed)</h1>
 <h1>Day-5(completed)</h1>
+<h1>Day-6(completed)</h1>
+<h1>Day-7(completed)</h1>
                   
 
