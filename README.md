@@ -11,7 +11,7 @@
 <h3 align="left">I've decided to embark on a journey to boost my skills in web development, and I thought, why not invite fellow enthusiasts to join me? So here it is – my self-created challenge: One project in 2 days.</h3>
 <p align="left">
 </p>
-<h3>As a beginner myself, I understand the struggle of staying consistent with studies and projects. But I truly believe that consistency is the key to mastering any skill, especially something as dynamic as web development.
+<h5>As a beginner myself, I understand the struggle of staying consistent with studies and projects. But I truly believe that consistency is the key to mastering any skill, especially something as dynamic as web development.
 
 So here's the deal: Over the next few weeks, I'll be dedicating myself to building a new front-end project every two days. And I'm inviting you, yes YOU, to join me on this adventure!
 
@@ -21,6 +21,6 @@ If you're up for the challenge, simply drop a comment or shoot me a message sayi
 
 Remember, it's not about perfection – it's about progress. Together, let's build some awesome projects and take our skills to the next level!
 
-Who's with me? 💪 #WebDevChallenge #FrontEndDevelopment #ConsistencyIsKey</h3>
+Who's with me? 💪 #WebDevChallenge #FrontEndDevelopment #ConsistencyIsKey</h5>
                   
 
