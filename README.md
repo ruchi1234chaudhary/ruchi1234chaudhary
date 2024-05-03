@@ -1,26 +1,26 @@
-![](https://github.com/ruchi1234chaudhary/ruchi1234chaudhary/blob/main/git-banner-correct.jpg)
+![](https://github.com/ruchi1234chaudhary/ruchi1234chaudhary/blob/main/JS%20PROJECT%20CHALLENGE.png)
 <h1 align="center">Hi 👋, I'm Ruchi Chaudhary</h1>
-<h3 align="center">"Code-a-Day Challenge: Consistency is Key!"</h3>
+<h3 align="center">"Welcome back! (#challengeAccepted)"</h3>
 
 
 
-- 🌱 I’m currently challenging **"Embarking on the C++ Daily Code Challenge: A Personal Commitment to Daily Practice, Cultivating Consistency, and Nurturing Expertise"**
+- 🌱 I’m currently challenging **"🚀 Calling all aspiring web developers! Let's take on a challenge together! "**
 
 - 📫 How to reach me **github.com/ruchi1234chaudhary**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I've decided to embark on a journey to boost my skills in web development, and I thought, why not invite fellow enthusiasts to join me? So here it is – my self-created challenge: One project in 2 days.</h3>
 <p align="left">
 </p>
-<h1>Day-1(completed)</h1>
-<h1>Day-2(completed)</h1>
-<h1>Day-3(completed)</h1>
-<h1>Day-4(completed)</h1>
-<h1>Day-5(completed)</h1>
-<h1>Day-6(completed)</h1>
-<h1>Day-7(completed)</h1>
-<h1>Day-8(completed)</h1>
-<h1>Day-9(completed)</h1>
-<h1>Day-10(completed)</h1>
-Are you ready for the next challenge?.............
+<h3>As a beginner myself, I understand the struggle of staying consistent with studies and projects. But I truly believe that consistency is the key to mastering any skill, especially something as dynamic as web development.
+
+So here's the deal: Over the next few weeks, I'll be dedicating myself to building a new front-end project every two days. And I'm inviting you, yes YOU, to join me on this adventure!
+
+Whether you're a seasoned developer looking to sharpen your skills or a complete beginner like myself, this challenge is for anyone eager to learn and grow together.
+
+If you're up for the challenge, simply drop a comment or shoot me a message saying "I'm in!" Let's push each other to new heights in our web development journey!
+
+Remember, it's not about perfection – it's about progress. Together, let's build some awesome projects and take our skills to the next level!
+
+Who's with me? 💪 #WebDevChallenge #FrontEndDevelopment #ConsistencyIsKey</h3>
                   
 
