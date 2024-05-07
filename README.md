@@ -23,5 +23,6 @@ Remember, it's not about perfection – it's about progress. Together, let's bui
 
 Who's with me? 💪<h4 style="color:blue"> #WebDevChallenge #FrontEndDevelopment #ConsistencyIsKey<h4></h5>
 <h1>Project-1 (COMPLETED) E-mail Validator</h1>
+<h1>Project-2 (COMPLETED) Tic-Tac-Toe</h1>
                   
 
