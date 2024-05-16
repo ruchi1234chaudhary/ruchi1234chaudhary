@@ -1,4 +1,4 @@
-![](https://github.com/ruchi1234chaudhary/ruchi1234chaudhary/blob/main/JS%20PROJECT%20CHALLENGE.png)
+![](https://github.com/ruchi1234chaudhary/ruchi1234chaudhary/blob/main/ruchibanner.jpeg)
 <h1 align="center">Hi 👋, I'm Ruchi Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
